@@ -1,0 +1,28 @@
+{
+  "user": {
+    "name": "Zoey",
+    "partner_name": "Sho",
+    "avatar_path": "~/.config/zooey/assets/zooey.png"
+  },
+  "notifications": {
+    "enabled": true,
+    "interval_minutes": 60,
+    "hydration_enabled": true,
+    "posture_enabled": true,
+    "sweet_notes_enabled": true,
+    "do_not_disturb": {
+      "enabled": true,
+      "start_hour": 23,
+      "end_hour": 8
+    }
+  },
+  "updates": {
+    "auto_check": true,
+    "check_interval_hours": 12,
+    "notify_on_available": true
+  },
+  "appearance": {
+    "theme_variant": "zooey-pink",
+    "active_wallpaper": ""
+  }
+}

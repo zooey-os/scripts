@@ -1,0 +1,12 @@
+{
+  "water_tracker": {
+    "date": "2026-10-10",
+    "cups_logged": 0,
+    "daily_goal": 8
+  },
+  "system": {
+    "last_update_check_epoch": 0,
+    "pending_update_count": 0,
+    "last_sos_timestamp": 0
+  }
+}
